@@ -1,0 +1,1 @@
+0 0 * * * /home/server/FalconServer/clean_logs/clean_logs.sh >/dev/null 2>&1
